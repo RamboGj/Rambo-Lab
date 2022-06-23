@@ -4,4 +4,12 @@ Inspirado no Ignite Lab 02 da Rocketseat, este é o Rambo Lab, um projeto muito 
 
 ## Visitar site: https://rambo-lab.vercel.app/
 
-###### Em andamento... 01/05...
+###### Em andamento... 03/05...
+
+#### Tecnologias
+- ReactJS
+- Typescript
+- TailwindCSS
+- GraphCMS
+- GraphQL
+- Apollo
