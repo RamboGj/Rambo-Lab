@@ -12,3 +12,4 @@ Inspirado no Ignite Lab 02 da Rocketseat, este é o Rambo Lab, um projeto muito 
 - TailwindCSS
 - GraphCMS
 - GraphQL
+- Apollo
