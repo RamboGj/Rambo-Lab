@@ -62,6 +62,7 @@ export function Subscribe() {
                             className="bg-gray-900 rounded px-5 h-14"
                             type="email" 
                             placeholder="Digite seu email"
+                            
                         />
 
                         <button
